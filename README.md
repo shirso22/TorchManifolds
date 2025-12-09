@@ -1,4 +1,4 @@
-# TorchManifolds: PyTorch based Differential Geometry and Topology library
+# TorchManifolds: High performance PyTorch based Differential Geometry and Topology library
 
 PyTorch based modern differential geometry and topology library with GPU acceleration support.
 
