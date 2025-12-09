@@ -6,7 +6,7 @@ type: software
 authors:
   - given-names: Shirsopratim
     family-names: Chattopadhyay
-    orcid: "https://orcid.org/0000-0000-0000-0000" # Placeholder: Replace with your ORCID if available
+    #orcid: "https://orcid.org/0000-0000-0000-0000" # Placeholder for now
 keywords:
   - differential geometry
   - topology
